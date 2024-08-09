@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/********main***********/
+main {
+    text-align: center;
+    min-height: 100vh;
+}
+
+.heading h1 {
+    font-family: sans-serif;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.one-character {
+    padding: 10px 0 10px 0;
+}
+
+.legend {
+    font-weight: bold;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+.character-info {
+    width: 500px; 
+    margin: 0 auto; 
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    background-color: #f9f9f9;
+}
+
+

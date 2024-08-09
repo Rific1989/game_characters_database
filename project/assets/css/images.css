@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    text-align: center;
+    min-height: 100vh;
+}
+
+.upload-img form {
+    display: flex;
+    flex-direction: column; 
+    align-items: center; /
+}
+
+.upload-img form > * {
+    margin-bottom: 10px; 
+}
